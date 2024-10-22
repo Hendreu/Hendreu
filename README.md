@@ -11,10 +11,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hendreu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hendreu&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hendreu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hendreu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hendreu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hendreu&icon=0&color=0)](https://visitcount.itsvg.in)
